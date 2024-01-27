@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8˜ê½êÎ1
+T
+java:S1854"7Remove this useless assignment to local variable "tc2".(ÔÎÙÒ8šê½êÎ1
+T
+java:S1854"7Remove this useless assignment to local variable "tc1".(ÊÈêú8šê½êÎ1
+E
+java:S1481"(Remove this unused "tc1" local variable.(ÊÈêú8œê½êÎ1
+E
+java:S1481"(Remove this unused "tc2" local variable.(ÔÎÙÒ8œê½êÎ1
