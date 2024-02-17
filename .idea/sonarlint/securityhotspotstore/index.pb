@@ -23,18 +23,6 @@ E
 Inheritance/Axis.java,2/e/2e4fe78f78624c32e496c8a938998c881d48a923
 D
 Inheritance/Sbi.java,c/d/cd67906c905aec3a40522f98257062b5379ad915
-C
-Abstract/Hello.java,6/6/667d18016a6391bcc9498067d8e10e8ec8bfd099
-J
-Abstract/Text_Scanner.java,5/2/52616a5f218599ab44bf8715b96cfc3680132732
-H
-Abstract/TestMain_1.java,9/9/994fbb84951538064ab6ca4bc0469d7a196e58e1
-G
-Abstract/AbstClass.java,5/1/51c72dc0be260fb106f8ba8ea16d6c30d1a38f31
-L
-Abstract/ChildAbstClass.java,4/d/4dca47ccdaadf0b5a927fd4be01324c2f7040915
-F
-Abstract/AbstMain.java,5/e/5e7bc5c59a5c713a44bd40fdb925c345f5f881d6
 F
 Interface/Drawing.java,1/2/1209393802e7f03d8887335517968928a5bc8756
 E
@@ -61,3 +49,15 @@ G
 Interface/PrintMsg.java,d/c/dcab9cb4abff25f181ae36129a6376748c6458c9
 F
 PatternPrint/Star.java,7/6/763505de0f6031828bd35e90d62f30ee07345dc4
+D
+Exception/Throw.java,6/f/6f5b87466aa24db72485aed8ef257609327791fc
+H
+Thread/SampleThread.java,c/3/c3e96130a9dfd6bd5be0d3800392d8a42ead5a53
+O
+PatternPrint/ReverseString.java,a/a/aa85a70d8e0948af4ec07676f80e0f5d47a9d7a6
+F
+Thread/ThreadRun3.java,8/0/8094350f7aaef46bd413354b5c39ca8f4226ea65
+F
+Thread/ThreadRun2.java,8/a/8a2e536d57d99351dc448224656310f2386f7d28
+E
+Thread/ThreadRun.java,3/d/3d8a6177c08e746d33a3fbab73efeaa4c375492b

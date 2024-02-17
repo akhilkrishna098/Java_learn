@@ -3,9 +3,9 @@ package Thread;
 public class ThreadRun3 extends Thread{
 
     public void run(){
-    for(int k = 0 ; k <= 10; k++)
+    for(int k = 0 ; k <= 3; k++)
     {
-    System.out.println("ThreadRun" +k);
+    System.out.println("ThreadRun k" +k);
 
     }
   }

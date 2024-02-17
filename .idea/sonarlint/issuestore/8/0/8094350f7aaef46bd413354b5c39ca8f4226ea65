@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šðœÝ
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8Òô¤±Û1
+?	java:S106"+Replace this use of System.out by a logger.(ÍàÀJ
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(ÏüÊÂ8¡Ï†±Û1
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Þ¡Æâ8¡Ï†±Û1
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(’ŠÆ·ýÿÿÿÿ8Ý‡¥±Û1

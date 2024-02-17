@@ -1,4 +1,4 @@
-package Abstract;
+package Abstractt;
 
 public class ChildAbstClass extends AbstClass{
 
